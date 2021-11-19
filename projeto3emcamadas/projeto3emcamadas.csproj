@@ -100,6 +100,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="Ui\frmPost.resx">
       <DependentUpon>frmPost.cs</DependentUpon>
@@ -121,6 +122,14 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2021-11-19 at 04.35.36.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\porta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\porta %281%29.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
