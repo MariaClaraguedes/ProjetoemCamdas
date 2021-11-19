@@ -65,5 +65,15 @@ namespace projeto3emcamadas.Ui
             txtTitulo.Text = dgvConteudo.Rows[e.RowIndex].Cells[1].Value.ToString();
             txtConteudo.Text = dgvConteudo.Rows[e.RowIndex].Cells[2].Value.ToString();
         }
+
+        private void dgvConteudo_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void txtTitulo_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

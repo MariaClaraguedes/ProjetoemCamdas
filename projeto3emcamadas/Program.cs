@@ -16,7 +16,7 @@ namespace projeto3emcamadas
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Ui.frmPost());
+            Application.Run(new Ui.Frm_Login());
         }
     }
 }

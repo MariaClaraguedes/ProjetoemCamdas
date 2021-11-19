@@ -22,3 +22,42 @@ D:\source\repos\PROJETO-EM-CAMADAS\projeto3emcamadas\projeto3emcamadas\bin\Debug
 D:\source\repos\PROJETO-EM-CAMADAS\projeto3emcamadas\projeto3emcamadas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 D:\source\repos\PROJETO-EM-CAMADAS\projeto3emcamadas\projeto3emcamadas\bin\Debug\System.Threading.Tasks.Extensions.xml
 D:\source\repos\PROJETO-EM-CAMADAS\projeto3emcamadas\projeto3emcamadas\obj\Debug\projeto3emcamadas.Ui.frmPost.resources
+D:\source\repos\PROJETO-EM-CAMADAS\projeto3emcamadas\projeto3emcamadas\bin\Debug\MySql.Data.dll
+D:\source\repos\PROJETO-EM-CAMADAS\projeto3emcamadas\projeto3emcamadas\bin\Debug\Google.Protobuf.dll
+D:\source\repos\PROJETO-EM-CAMADAS\projeto3emcamadas\projeto3emcamadas\bin\Debug\BouncyCastle.Crypto.dll
+D:\source\repos\PROJETO-EM-CAMADAS\projeto3emcamadas\projeto3emcamadas\bin\Debug\Ubiety.Dns.Core.dll
+D:\source\repos\PROJETO-EM-CAMADAS\projeto3emcamadas\projeto3emcamadas\obj\Debug\projeto3emcamadas.Ui.Frm_Login.resources
+D:\source\repos\PROJETO-EM-CAMADAS M\projeto3emcamadas\projeto3emcamadas\bin\Debug\projeto3emcamadas.exe.config
+D:\source\repos\PROJETO-EM-CAMADAS M\projeto3emcamadas\projeto3emcamadas\bin\Debug\projeto3emcamadas.exe
+D:\source\repos\PROJETO-EM-CAMADAS M\projeto3emcamadas\projeto3emcamadas\bin\Debug\projeto3emcamadas.pdb
+D:\source\repos\PROJETO-EM-CAMADAS M\projeto3emcamadas\projeto3emcamadas\bin\Debug\MySql.Data.dll
+D:\source\repos\PROJETO-EM-CAMADAS M\projeto3emcamadas\projeto3emcamadas\bin\Debug\MySqlConnector.dll
+D:\source\repos\PROJETO-EM-CAMADAS M\projeto3emcamadas\projeto3emcamadas\bin\Debug\System.Buffers.dll
+D:\source\repos\PROJETO-EM-CAMADAS M\projeto3emcamadas\projeto3emcamadas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\source\repos\PROJETO-EM-CAMADAS M\projeto3emcamadas\projeto3emcamadas\bin\Debug\System.Memory.dll
+D:\source\repos\PROJETO-EM-CAMADAS M\projeto3emcamadas\projeto3emcamadas\bin\Debug\System.Numerics.Vectors.dll
+D:\source\repos\PROJETO-EM-CAMADAS M\projeto3emcamadas\projeto3emcamadas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\source\repos\PROJETO-EM-CAMADAS M\projeto3emcamadas\projeto3emcamadas\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\source\repos\PROJETO-EM-CAMADAS M\projeto3emcamadas\projeto3emcamadas\bin\Debug\Google.Protobuf.dll
+D:\source\repos\PROJETO-EM-CAMADAS M\projeto3emcamadas\projeto3emcamadas\bin\Debug\ZstdNet.dll
+D:\source\repos\PROJETO-EM-CAMADAS M\projeto3emcamadas\projeto3emcamadas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\source\repos\PROJETO-EM-CAMADAS M\projeto3emcamadas\projeto3emcamadas\bin\Debug\BouncyCastle.Crypto.dll
+D:\source\repos\PROJETO-EM-CAMADAS M\projeto3emcamadas\projeto3emcamadas\bin\Debug\Ubiety.Dns.Core.dll
+D:\source\repos\PROJETO-EM-CAMADAS M\projeto3emcamadas\projeto3emcamadas\bin\Debug\K4os.Compression.LZ4.dll
+D:\source\repos\PROJETO-EM-CAMADAS M\projeto3emcamadas\projeto3emcamadas\bin\Debug\K4os.Hash.xxHash.dll
+D:\source\repos\PROJETO-EM-CAMADAS M\projeto3emcamadas\projeto3emcamadas\bin\Debug\MySql.Data.xml
+D:\source\repos\PROJETO-EM-CAMADAS M\projeto3emcamadas\projeto3emcamadas\bin\Debug\MySqlConnector.xml
+D:\source\repos\PROJETO-EM-CAMADAS M\projeto3emcamadas\projeto3emcamadas\bin\Debug\System.Buffers.xml
+D:\source\repos\PROJETO-EM-CAMADAS M\projeto3emcamadas\projeto3emcamadas\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\source\repos\PROJETO-EM-CAMADAS M\projeto3emcamadas\projeto3emcamadas\bin\Debug\System.Memory.xml
+D:\source\repos\PROJETO-EM-CAMADAS M\projeto3emcamadas\projeto3emcamadas\bin\Debug\System.Numerics.Vectors.xml
+D:\source\repos\PROJETO-EM-CAMADAS M\projeto3emcamadas\projeto3emcamadas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\source\repos\PROJETO-EM-CAMADAS M\projeto3emcamadas\projeto3emcamadas\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\source\repos\PROJETO-EM-CAMADAS M\projeto3emcamadas\projeto3emcamadas\obj\Debug\projeto3emcamadas.csproj.AssemblyReference.cache
+D:\source\repos\PROJETO-EM-CAMADAS M\projeto3emcamadas\projeto3emcamadas\obj\Debug\projeto3emcamadas.Properties.Resources.resources
+D:\source\repos\PROJETO-EM-CAMADAS M\projeto3emcamadas\projeto3emcamadas\obj\Debug\projeto3emcamadas.Ui.frmPost.resources
+D:\source\repos\PROJETO-EM-CAMADAS M\projeto3emcamadas\projeto3emcamadas\obj\Debug\projeto3emcamadas.Ui.Frm_Login.resources
+D:\source\repos\PROJETO-EM-CAMADAS M\projeto3emcamadas\projeto3emcamadas\obj\Debug\projeto3emcamadas.csproj.GenerateResource.cache
+D:\source\repos\PROJETO-EM-CAMADAS M\projeto3emcamadas\projeto3emcamadas\obj\Debug\projeto3emcamadas.csproj.CoreCompileInputs.cache
+D:\source\repos\PROJETO-EM-CAMADAS M\projeto3emcamadas\projeto3emcamadas\obj\Debug\projeto3emcamadas.exe
+D:\source\repos\PROJETO-EM-CAMADAS M\projeto3emcamadas\projeto3emcamadas\obj\Debug\projeto3emcamadas.pdb

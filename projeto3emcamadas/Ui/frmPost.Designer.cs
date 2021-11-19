@@ -65,6 +65,7 @@ namespace projeto3emcamadas.Ui
             this.txtTitulo.Name = "txtTitulo";
             this.txtTitulo.Size = new System.Drawing.Size(412, 20);
             this.txtTitulo.TabIndex = 2;
+            this.txtTitulo.TextChanged += new System.EventHandler(this.txtTitulo_TextChanged);
             // 
             // txtConteudo
             // 
@@ -82,6 +83,7 @@ namespace projeto3emcamadas.Ui
             this.dgvConteudo.Size = new System.Drawing.Size(412, 150);
             this.dgvConteudo.TabIndex = 5;
             this.dgvConteudo.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvConteudo_CellClick);
+            this.dgvConteudo.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvConteudo_CellContentClick);
             // 
             // btnCadastrar
             // 

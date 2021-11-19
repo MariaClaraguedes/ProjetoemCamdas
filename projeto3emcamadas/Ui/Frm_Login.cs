@@ -1,0 +1,36 @@
+﻿using System;
+using System.Windows.Forms;
+
+
+using projeto3emcamadas.Code.BLL;
+using projeto3emcamadas.Code.DTO;
+
+namespace projeto3emcamadas.Ui
+{
+    public partial class Frm_Login : Form
+    {
+        LoginBLL loginBLL = new LoginBLL();
+        LoginDTO loginDTO = new LoginDTO();
+
+        public Frm_Login()
+        {
+            InitializeComponent();
+        }
+
+        private void btnEntrar_Click(object sender, EventArgs e)
+        {
+            loginDTO.Email = txtEmail.Text;
+            loginDTO.Senha = txtSenha.Text;
+
+            if (loginBLL.RealizarLogin(loginDTO) == true)
+            {
+                frmPost Frmpost = new frmPost();
+                Frmpost.ShowDialog();
+            }
+            else
+            {
+                MessageBox.Show("Verifique o e-mail e senha.", "ERRO!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+    }
+}

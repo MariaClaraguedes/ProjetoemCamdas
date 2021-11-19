@@ -15,7 +15,7 @@ namespace projeto3emcamadas.Code.DAL
             {
                 string conn = "Persist Security Info = false; " +
                               "server = localhost; " +
-                              "database = db3camadas; " +
+                              "database = db3camadasm; " +
                               "uid = root; pwd=";
 
                 conexao = new MySqlConnection(conn);
